@@ -1,0 +1,14 @@
+/**
+ * @Author Zhaolq
+ * @Date: 2019/9/4 15:56
+ * @Version 1.0
+ */
+public class TreeNode {
+    public int val = 0;
+    public TreeNode left = null;
+    public TreeNode right = null;
+
+    public TreeNode(int val) {
+        this.val = val;
+    }
+}
