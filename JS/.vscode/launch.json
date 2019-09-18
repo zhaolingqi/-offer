@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\数组中出现次数超过一半的数字.js"
+            "program": "${workspaceFolder}\\丑数.js"
         }
     ]
 }
