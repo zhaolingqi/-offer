@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\丑数.js"
+            "program": "${workspaceFolder}\\机器人的运动范围.js"
         }
     ]
 }

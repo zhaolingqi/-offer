@@ -28,4 +28,3 @@ function FindNumbersWithSum(array, sum) {
     }
     return seq
 }
-console.log(N)

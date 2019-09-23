@@ -47,6 +47,6 @@ public class Solution {
         x.right = new TreeNode(15);
         x.right.right = new TreeNode(19);
         x.right.right.left = new TreeNode(17);
-        LDR(x, x);
+//        LDR(x, x);
     }
 }
